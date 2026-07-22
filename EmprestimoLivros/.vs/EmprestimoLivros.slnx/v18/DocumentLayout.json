@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\projecto asp.net core mvc\\emprestimolivros\\emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\projecto asp.net core mvc\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\projecto asp.net core mvc\\emprestimolivros\\emprestimolivros\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\projecto asp.net core mvc\\emprestimolivros\\emprestimolivros\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\projecto asp.net core mvc\\emprestimolivros\\emprestimolivros\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|d:\\projecto asp.net core mvc\\emprestimolivros\\emprestimolivros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3734388E-4FEA-EEF9-7415-07850C4A12BA}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T15:16:46.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Editar.cshtml",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Emprestimo\\Editar.cshtml",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Editar.cshtml",
+              "RelativeToolTip": "EmprestimoLivros\\Views\\Emprestimo\\Editar.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-21T16:16:16.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmprestimosModel.cs",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Models\\EmprestimosModel.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Models\\EmprestimosModel.cs",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Models\\EmprestimosModel.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Models\\EmprestimosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:14:49.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "EmprestimoLivros\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-19T13:09:08.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T13:07:35.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Emprestimo\\Index.cshtml",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\EmprestimoLivros\\EmprestimoLivros\\Views\\Emprestimo\\Index.cshtml",
+              "RelativeToolTip": "EmprestimoLivros\\Views\\Emprestimo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T12:16:35.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
