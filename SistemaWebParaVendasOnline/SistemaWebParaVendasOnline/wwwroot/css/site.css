@@ -2,6 +2,7 @@ html {
   font-size: 14px;
 }
 
+
 @media (min-width: 768px) {
   html {
     font-size: 16px;
@@ -9,7 +10,8 @@ html {
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    
 }
 
 html {
@@ -29,3 +31,40 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+
+/*estilo bdo login*/
+#container {
+    overflow: hidden;
+    width: 800px;
+
+    /*background-color: #068562;*/
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.20);
+}
+#form-login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container-form{
+    width: 300px;
+    padding: 10px;
+   
+}
+#container  img{
+    width: 100%;
+}
+#containerBox{
+    height:78vh;
+}
+.OBS {
+    margin-top: 8px;
+}
+
+/*fecho bdo estilo do login*/
+
+/*Estilo bdo cadastro*/
+
+/*fecho bdo estilo do cadastro*/

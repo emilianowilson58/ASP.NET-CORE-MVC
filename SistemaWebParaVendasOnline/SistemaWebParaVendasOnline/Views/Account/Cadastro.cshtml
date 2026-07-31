@@ -1,0 +1,46 @@
+﻿@model SistemaWebParaVendasOnline.ViewModel.RegistroViewModel
+@{
+    ViewData["Title"] = "Registro";
+}
+
+<div class="d-flex justify-content-center align-items-center" id="containerBox">
+    <div class="d-flex p-5" id="container">
+
+            <div>
+                <div class="text-center ">
+                    <h1 class="">@ViewData["Title"]</h1>
+                    <p class="">Seja Bem-Vindo a tela de cadastro.</p>
+                    <p class="">Faça já o seu cadastro para começar a Comercializar os seus Produtos.</p>
+                </div>
+            <form method="post" asp-controller="Account" asp-action="Cadastro" class="d-grid column-gap-3">
+                    <div class="mb-3 ">
+
+                        <input type="text" asp-for="Nome" class="form-control" id="Nome" placeholder="Nome Completo">
+                        <span asp-validation-for="Nome"></span>
+                     </div>
+                    <div class="mb-3 ">
+                        <input type="tel" asp-for="Telefone" class="form-control" id="Telefone" placeholder="Telefone">
+                     </div>
+                    <div class="mb-3">
+                        <input type="email" asp-for="Email" class="form-control" id="Email" placeholder="Email">
+                        <span asp-validation-for="Email" class="text-banger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <input type="password" asp-for="Senha" class="form-control" id="Senha" placeholder="Senha">
+                        <span asp-validation-for="Senha" class="text-banger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <input type="password" asp-for="ConfirmarSenha" class="form-control" id="ConfSenha" placeholder="Confirmar Senha">
+                    <span asp-validation-for="ConfirmarSenha" class="text-banger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-info ">Entrar</button>
+                     <div class="OBS">
+                       <a asp-controller="Account" asp-action="Login">Já tenho uma conta</a>
+                    </div>
+                </form>
+            </div>
+       
+    </div>
+</div>

@@ -1,6 +1,0 @@
-D:\Projecto ASP.NET Core MVC\EmprestimoLivros\EmprestimoLivros\wwwroot\DataTables\datatables.css
-D:\Projecto ASP.NET Core MVC\EmprestimoLivros\EmprestimoLivros\wwwroot\DataTables\datatables.js
-D:\Projecto ASP.NET Core MVC\EmprestimoLivros\EmprestimoLivros\wwwroot\DataTables\datatables.min.css
-D:\Projecto ASP.NET Core MVC\EmprestimoLivros\EmprestimoLivros\wwwroot\DataTables\datatables.min.js
-D:\Projecto ASP.NET Core MVC\EmprestimoLivros\EmprestimoLivros\wwwroot\js\datatables.js
-D:\Projecto ASP.NET Core MVC\EmprestimoLivros\EmprestimoLivros\wwwroot\js\datatables.min.js

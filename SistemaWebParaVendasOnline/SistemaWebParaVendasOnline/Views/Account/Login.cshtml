@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="d-flex justify-content-center align-items-center" id="containerBox">
+    <div class="d-flex gap-2 " id="container">
+        <div>
+            <img src="imagem/back_login.jpg" alt="img" />
+        </div>
+
+        <div id="form-login">
+            <div id="container-form">
+                <div class="text-center ">
+                    <h1 class="">Login</h1>
+                    <p class="">Faça o login para ter o acesso a sua loja</p>
+                </div>
+                <form method="post" asp-controller="" asp-action="">
+                    <div class="mb-3">
+                        <label for="Email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="Email">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Senha" class="form-label  ">Senha</label>
+                        <input type="password" class="form-control" id="Senha">
+                    </div>
+
+                    <button type="submit" class="btn btn-info w-100">Entrar</button>
+
+                    <div class="OBS">
+                        <a asp-controller="Account" asp-action="Cadastro">Criar uma conta</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\viewmodels\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\viewmodels\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\imagemproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\imagemproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\views\\account\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\views\\account\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|d:\\projecto asp.net core mvc\\asp.net core mvc\\sistemawebparavendasonline\\sistemawebparavendasonline\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5785FA47-8338-D2CB-17BB-0C0636B22C1C}|SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline.csproj|solutionrelative:sistemawebparavendasonline\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ItemPedido.cs",
-              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\ItemPedido.cs",
-              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\ItemPedido.cs",
-              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\ItemPedido.cs",
-              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\ItemPedido.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T10:22:17.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemCarrinho.cs",
-              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\ItemCarrinho.cs",
-              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\ItemCarrinho.cs",
-              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\ItemCarrinho.cs",
-              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\ItemCarrinho.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T10:22:12.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ImagemProduto.cs",
-              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\ImagemProduto.cs",
-              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\ImagemProduto.cs",
-              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\ImagemProduto.cs",
-              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\ImagemProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\ProdutoModel.cs",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\ProdutoModel.cs",
+              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\ProdutoModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T10:21:59.736Z",
+              "WhenOpened": "2026-07-29T12:18:45.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\Produto.cs",
-              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\Produto.cs",
-              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\Produto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "SistemaWebParaVendasOnline\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T10:18:07.033Z",
+              "WhenOpened": "2026-07-29T12:07:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\UsuarioModel.cs",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:04:12.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroViewModel.cs",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\ViewModels\\RegistroViewModel.cs",
+              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\ViewModels\\RegistroViewModel.cs",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\ViewModels\\RegistroViewModel.cs",
+              "RelativeToolTip": "SistemaWebParaVendasOnline\\ViewModels\\RegistroViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T11:53:32.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SistemaWebParaVendasOnline\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T09:57:19.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\Pedido.cs",
-              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\Pedido.cs",
-              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T09:54:35.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\Usuario.cs",
-              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\Usuario.cs",
-              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T09:54:24.912Z",
+              "Title": "Cadastro.cshtml",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Views\\Account\\Cadastro.cshtml",
+              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Views\\Account\\Cadastro.cshtml",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Views\\Account\\Cadastro.cshtml",
+              "RelativeToolTip": "SistemaWebParaVendasOnline\\Views\\Account\\Cadastro.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-29T11:45:58.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Mensagem.cs",
-              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\Mensagem.cs",
-              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Models\\Mensagem.cs",
-              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Models\\Mensagem.cs",
-              "RelativeToolTip": "SistemaWebParaVendasOnline\\Models\\Mensagem.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAABZAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SistemaWebParaVendasOnline\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projecto ASP.NET Core MVC\\ASP.NET CORE MVC\\SistemaWebParaVendasOnline\\SistemaWebParaVendasOnline\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SistemaWebParaVendasOnline\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T08:17:36.92Z",
+              "WhenOpened": "2026-07-29T11:44:30.157Z",
               "EditorCaption": ""
             }
           ]

@@ -9,7 +9,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="10.0.10" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Analyzers" Version="10.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.10">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -23,13 +22,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Account\" />
     <Folder Include="Views\Admin\" />
     <Folder Include="Views\Categoria\" />
+    <Folder Include="Views\Home\" />
     <Folder Include="Views\Mensagem\" />
     <Folder Include="Views\Carrinho\" />
     <Folder Include="Views\Produto\" />
     <Folder Include="Views\Pedido\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\imagem\back_login.jpg" />
   </ItemGroup>
 
 </Project>
